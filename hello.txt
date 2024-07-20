@@ -2,3 +2,4 @@ hello,lcm hot-fix test
 hello,lcm
 hello,lcm
 add1
+add hot-fix
