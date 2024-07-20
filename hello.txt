@@ -1,5 +1,5 @@
 hello,lcm hot-fix test
-hello,lcm
+hello,lcm lcm-test
 hello,lcm
 add1
 add2
